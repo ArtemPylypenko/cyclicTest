@@ -5,7 +5,7 @@
   "scripts": {
     "build": "",
     "test": "echo \"No test specified\" && exit 1",
-    "start": "out/artifacts/untitled_jar/untitled.jar"
+    "start": "-jar out/artifacts/untitled_jar/untitled.jar"
   },
   "repository": {
     "type": "git",
